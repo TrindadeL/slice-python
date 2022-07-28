@@ -1,0 +1,5 @@
+valor = 105.39
+valor = str(valor)
+#index 01234
+
+print(valor[2:])
